@@ -1,6 +1,6 @@
 # DSA Practice
 
-This repository contains my solutions for data structures and algorithms problems from platforms like LeetCode, GeeksforGeeks, and Codeforces.
+This repository contains my solutions for data structures and algorithms problems from platforms like LeetCode, GeeksforGeeks, and Hackerrank.
 
 ## Topics Covered
 - Arrays
