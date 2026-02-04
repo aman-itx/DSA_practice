@@ -7,6 +7,8 @@
 class Solution
 {
     public:
+        // Time Complexity: O(n log log n)
+        // Space Complexity: O(n)
         int countPrimes(int n)
         {
             if(n<=2) return 0;
