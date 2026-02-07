@@ -24,7 +24,7 @@ public:
             {
                 l = mid + 1;
             }
-            else                            // move left---. value > target
+            else                            // move left---> value > target
             {
                 h = mid - 1;
             }
